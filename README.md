@@ -101,9 +101,3 @@ The following aspects will be evaluated:
 - reasoning ability
 - functioning of the code
 - quality of the code produced
-
-Source: Conversation with Bing, 5/28/2023
-(1) Google Traduttore. https://translate.google.com/?hl=it.
-(2) . https://bing.com/search?q=translate+italian+to+english.
-(3) Translate Italian to English online | Translate.com. https://www.translate.com/italian-english.
-(4) DeepL Translate: The world's most accurate translator. https://www.deepl.com/en/translator-mobile.
